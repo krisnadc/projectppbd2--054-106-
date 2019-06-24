@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tambah"
+        android:title="Tambah Kamera"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/lihat"
+        android:title="Lihat Semua Kamera"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/lihatpenyewa"
+        android:title="Lihat Transaksi Penyewa"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never"></item>
+
+</menu>
